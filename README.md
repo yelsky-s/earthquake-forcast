@@ -1,7 +1,7 @@
 # earthquake-forecast
 Forecasting small scale earthquakes in the vicinity of Israel.
 The aim of this project is to forecast magnitudes and locations of a small scale (up to 3.5 on a Richter scale) earthquakes in the vicinity of Israel. At this stage based on eathquake data of Geological Survey for a year 2018.
-(In the future I'll try to add a more recent earthquakes, meanwhile i'll collect a recent data.)
+ Location of small magnitude earthquakes along the Dead Sea Fault (North - South) was also forecasted with SK-learn with Linear Regression and XGBoost algorithms.
 
 Location of 2018 earthquakes is visualised on the map (with folium pakage)
 ![image](https://user-images.githubusercontent.com/101993270/181304040-afa5ce69-1c1a-433c-b110-6ede7cd0dee2.png)
