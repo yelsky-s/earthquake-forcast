@@ -4,7 +4,8 @@ The aim of this project is to forecast magnitudes and locations of a small scale
  Location of small magnitude earthquakes along the Dead Sea Fault (North - South) was also forecasted with SK-learn with Linear Regression and XGBoost algorithms.
 
 Motivation and intro:
-
+ Dead Sea region is an active tectonic transform fault. Large scale Earthquakes occure in that region at approximated frequency of about 1/80 years, While small scale Earthquakes are very frequent - sometimes several of those are recorded a day. When Earthquake occure in tectonically active region it changes the underground stored stresses distribution along the fault (enlarges or releases those stresses at different locations) and thus influences future probability of earthquake ocuurence and location probabilities along the fault line.
+ Even though it seems to be impossible to predict the next large scale earthquake with the limited information and data available (especially considering the fact that all the info is about small scale earthquakes), it can be possible for an ML algorithms to detect a pattern in small scale magnitude earthquakes and forecast the location of their occurence over time.
 
 Location of 2018 earthquakes is visualised on the map (with folium pakage)
 ![image](https://user-images.githubusercontent.com/101993270/181304040-afa5ce69-1c1a-433c-b110-6ede7cd0dee2.png)
