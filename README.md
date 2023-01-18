@@ -9,6 +9,7 @@ Motivation and intro:
 
 Location of 2018 earthquakes is visualised on the map (with folium pakage)
 ![image](https://user-images.githubusercontent.com/101993270/213099212-ff2ec935-c6b1-4d8d-b8ed-28918ec8d5b0.png)
+
 ![image](https://user-images.githubusercontent.com/101993270/181304040-afa5ce69-1c1a-433c-b110-6ede7cd0dee2.png)
 
 Forecast of Earthquake location along North - South Fault line with SciKit-learn Linear regression and XGBoost
