@@ -8,12 +8,11 @@ Motivation and intro:
  Even though it seems to be impossible to predict the next large scale earthquake with the limited information and data available (especially considering the fact that all the info is about small scale earthquakes), it can be possible for an ML algorithms to detect a pattern in small scale magnitude earthquakes and forecast the location of their occurence over time.
 
 Location of 2018 earthquakes is visualised on the map (with folium pakage)
-![image](https://user-images.githubusercontent.com/101993270/213099439-2aa88dba-18d9-43f2-a2f9-a7e42ecfac46.png)
-
-
 ![image](https://user-images.githubusercontent.com/101993270/181304040-afa5ce69-1c1a-433c-b110-6ede7cd0dee2.png)
 
 Forecast of Earthquake location along North - South Fault line with SciKit-learn Linear regression and XGBoost
+![image](https://user-images.githubusercontent.com/101993270/213099563-e62dff67-1af4-477e-a743-6040996d4b7b.png)
+
 ![image](https://user-images.githubusercontent.com/101993270/213099104-ad101888-2403-43dd-ad75-84e05ec3e59d.png)
 
 
