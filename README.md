@@ -13,8 +13,8 @@ Location of 2018 earthquakes is visualised on the map (with folium pakage)
 Forecast of Earthquake location along North - South Fault line with SciKit-learn Linear regression and XGBoost:
 
 the errors (RMSE) for train and test sets that were achived with Linear Regression are:
-
 ![image](https://user-images.githubusercontent.com/101993270/213099563-e62dff67-1af4-477e-a743-6040996d4b7b.png)
+
 In this region error of 0.1 degree along N-S axis is approximate to 10km. So, RMSE of 0.688 is almost 70 km range, which is a considerable error of coarse. But keeping on mind that the data in that dataset is spread along approximately 400 km alongthe Dead Sea fault we may conclude that a prediction with +/-70km still have some predictive validity.
 
 ![image](https://user-images.githubusercontent.com/101993270/213099104-ad101888-2403-43dd-ad75-84e05ec3e59d.png)
